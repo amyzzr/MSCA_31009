@@ -2,7 +2,7 @@
 This repository is used to hold any files related to the MSCA 31009 final project.
 
 ## Description
-The purpose of this project is to analyze features off mushrooms to predict if the mushroom is edible.
+The purpose of this project is to analyze features of mushrooms to predict if the mushroom is edible.
 * This project utilizes the Mushroom dataset from Kaggle. The data includes data about the appearance, smell, population, and habitat of various mushroomsm, and marked to be edible or not.
 * The analysis will include feature selection, PCA and MCA, supervised and unsupervised machine learning, and a nerual network.
 
