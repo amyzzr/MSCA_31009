@@ -8,11 +8,6 @@ This repository is used to hold any files related to the MSCA 31009 final projec
 |[**Jason Lee**](https://github.com/jasonwlee1219)|
 |[**Yifan Jiang**](https://github.com/yifanj72)|
 
-|*Team Member*||
-|:---:|
-|[**Amy Zhang**](https://github.com/amyzzr)|[**Chang Gao**](https://github.com/ZoeeeG)|[**Jason Lee**](https://github.com/jasonwlee1219)|[**Yifan Jiang**](https://github.com/yifanj72)|
-
-
 ## Description
 The purpose of this project is to analyze features of mushrooms to predict if the mushroom is edible.
 * This project utilizes the Mushroom dataset from Kaggle. The data includes data about the appearance, smell, population, and habitat of various mushroomsm, and marked to be edible or not.
