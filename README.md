@@ -1,5 +1,31 @@
 # MSCA 31009 - Mushroom Poisonousness Detection Project
 This repository is used to hold any files related to the MSCA 31009 final project.
+
+## Description
+The purpose of this project is to analyze features off mushrooms to predict if the mushroom is edible.
+* This project utilizes the Mushroom dataset from Kaggle. The data includes data about the appearance, smell, population, and habitat of various mushroomsm, and marked to be edible or not.
+* The analysis will include feature selection, PCA and MCA, supervised and unsupervised machine learning, and a nerual network.
+
+## Data
+* The data was downloaded from [Kaggle](https://www.kaggle.com/datasets/uciml/mushroom-classification).     
+* The data is in CSV format, has 8124 columns and 23 rows.
+
+## Methodology and Tools
+* Dimensional Reduction
+  * MCA
+  * PCA
+* Traditional Supervised ML model
+  * Logistic Regression
+  * SGD Classifier
+  * Support Vector Classification
+* Traditional Unsupervised Learning
+  * K-Modes (Clustering)
+* Deep Learning
+  * Neural Network
+* Tools
+  * Cloud Platform: Google Collaboratory
+  * Data Storage: Google Drive 
+
 ## Files
 * mushrooms.csv
   * Contains the original data downloaded from Kaggle. 
