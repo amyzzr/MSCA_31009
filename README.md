@@ -53,3 +53,5 @@ The purpose of this project is to analyze features of mushrooms to predict if th
   * Two dimentional reduction techniques applied, re-run and re-evaluate models afterwards. 
 * Mushroom_NN.ipynb
   * Deep learning: neural network applied to the mushroom data. 
+* Mushroom-kmodes.ipynb
+  * KModes clustering codes, which is one of the unsupervised Machine Learning algorithms that is used to cluster categorical variables.
