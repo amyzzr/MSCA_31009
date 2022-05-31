@@ -14,7 +14,7 @@ The purpose of this project is to analyze features of mushrooms to predict if th
 * Dimensional Reduction
   * MCA
   * PCA
-* Traditional Supervised ML model
+* Traditional Supervised ML Model
   * Logistic Regression
   * SGD Classifier
   * Support Vector Classification
@@ -25,6 +25,13 @@ The purpose of this project is to analyze features of mushrooms to predict if th
 * Tools
   * Cloud Platform: Google Collaboratory
   * Data Storage: Google Drive 
+
+## Findings and Conclusions
+* Given our goal of maximizing recall, SVC was the best model because it returns the highest recall after feature engineering. It’s performance after PCA and MCA is also more stable compared to other models.
+* Odor is the most important feature. While in the wild, you'll have a better chance picking an edible mushroom if it doesn’t have any odor.
+* Neural Network is too complicated in this application.
+* Feature importance ranking for different models is more diverse after feature engineering. We start to see differences in the ranking from different models.
+* Dimensional reduction helps to resolve the highly correlated variables in selective cases. For decision tree and random forest, model performance is improved after dimensional reduction.
 
 ## Files
 * mushrooms.csv
